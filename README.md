@@ -4,9 +4,8 @@
 Move from mid-level to senior frontend developer by improving key skills step by step.
 
 ### 📅 Weekly Progress:
-✅ Week 1: Repository Setup (This commit 🎉)
-🔜 Week 2: State Management - Redux-Saga/Zustand  
-🔜 Week 3: Performance Optimization - useMemo & useCallback  
+✅ Week 1: State Management - Redux-Saga 
+🔜 Week 2: Performance Optimization - useMemo & useCallback
 🔜 More to come...
 
 ### 📌 How This Works:
